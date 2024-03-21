@@ -4,11 +4,15 @@ As a study roadmap:
 
 git status: verify which files were changed
 
-git add: add changes
+To register a change:
 
-git commit: register changes in repo (use -m + "message" to include title)
+1. git add: add changes in order to commit
 
-git push: upload changes into repo
+2. git commit: register changes in repo (use -m + "message" to include title)
 
-git pull: download changes from others/changes made directly in github
+3. git push: upload changes into repo
+
+To update branches and repo:
+
+1. git pull: download changes from others/changes made directly in github
 
