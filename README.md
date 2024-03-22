@@ -16,3 +16,10 @@ To update branches and repo:
 
 1. git pull: download changes from others/changes made directly in github
 
+To undo a git commit, but not git pushed:
+
+1. git reset: if not uploaded to remote branch, it is recommended to delete. Otherwise, version change will be impacted and not recommended for group coding
+
+To modify a commit:
+
+1. git commit --amend -m "correct message"
