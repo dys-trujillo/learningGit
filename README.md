@@ -35,3 +35,4 @@ git status: verify which files were changed
 
 1. git log: shows all history of commits, local and remote.
 
+<h3>To share snippets or other code, use GitHub gist</h3>
